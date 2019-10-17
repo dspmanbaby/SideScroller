@@ -11,8 +11,11 @@ public class MechKeyboardDB {
                 "Switches: Each key on a mechanical-switch keyboard contains a complete switch underneath.\nEach switch is composed of a housing, a spring, and a stem, and sometimes other parts such as a separate tactile leaf or a clickbar."
         };
         public static int [] id = {
-                
-                //drawables
-
+                R.drawable.mechplating,
+                R.drawable.mechcase,
+                R.drawable.mechpcb,
+                R.drawable.mechkeycaps,
+                R.drawable.stabilizers,
+                R.drawable.mechholypandaswitch
         };
 }
